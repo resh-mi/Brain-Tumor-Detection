@@ -13,3 +13,9 @@ This repository contains a Convolutional Neural Network (CNN) model designed to 
 - **TensorFlow and Keras**: For building and training the CNN model.
 - **NumPy**: For numerical operations on image data.
 - **Matplotlib** and **Seaborn**: For data visualization and results interpretation.
+
+## Dataset
+The dataset for this project is organized into three folders:
+- `Yes`: Contains MRI images of patients diagnosed with a brain tumor.
+- `No`: Contains MRI images of patients without a brain tumor.
+- `Pred`: Used for testing the model, containing images to predict whether a brain tumor is present.
